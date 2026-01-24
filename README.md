@@ -149,7 +149,7 @@ This project follows modern software engineering principles:
 
 👤 Leadership
 
-Topic Lead: Kartik Chilkoti
+Topic Lead:
 
 “Leadership is creating pathways where others can learn and grow.”
 
