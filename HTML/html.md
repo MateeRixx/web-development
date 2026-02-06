@@ -387,6 +387,9 @@ Use `<div>` and `<span>` only when no semantic tag fits.
 
 ---
 
+<img width="940" height="414" alt="image" src="https://github.com/user-attachments/assets/7367aa66-4fc4-4b52-a3ca-a76264c9efed" />
+
+
 ## 18. Comments — Ignored by Browser
 
 ```html
