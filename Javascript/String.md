@@ -9,13 +9,13 @@
 
 
   EXAMPLE:
-  ```Let name="Creator";```
+  ```let name="Creator";```
 
 ## String Indices
 
-💠Index stars from "0".In string space is also considered as a index number according to their sequence
+💠Index starts from "0".In string space is also considered as an index number according to their sequence
 
-EXAMPLE:```Let name="iron man";```
+EXAMPLE:```let name="iron man";```
 
 EXPLANATION: from above example,   
                 i -> index "0"  
@@ -31,7 +31,7 @@ EXPLANATION: from above example,
 name[0] -> 'i'  
 name[6] -> 'a'
 
-### Concatination
+### Concatenation
 *Meaning*: Adding Strings together
 
 Example: ```"iron"+" "+"man" = iron man```
@@ -67,6 +67,7 @@ Example:
  ```let str="CREATOR";```  
          ```str.toLowerCase();```  
          output : "creator"
+
 
 
 
